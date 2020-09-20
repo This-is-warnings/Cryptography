@@ -1,0 +1,7 @@
+D:\SEMESTR4\Cryptogra\lab8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\SEMESTR4\Cryptogra\lab8\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\Cryptogra\lab8\test\test\bin\Debug\test.exe.config
+D:\SEMESTR4\Cryptogra\lab8\test\test\bin\Debug\test.exe
+D:\SEMESTR4\Cryptogra\lab8\test\test\bin\Debug\test.pdb
+D:\SEMESTR4\Cryptogra\lab8\test\test\obj\Debug\test.exe
+D:\SEMESTR4\Cryptogra\lab8\test\test\obj\Debug\test.pdb

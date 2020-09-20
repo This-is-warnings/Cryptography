@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\semestr4\cryptogra\lab3\lab3\lab3\header.h(72): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab3\lab3\lab3\header.h(92): warning C4018: <: несоответствие типов со знаком и без знака
+  lab3.vcxproj -> D:\SEMESTR4\Cryptogra\Lab3\lab3\Debug\lab3.exe

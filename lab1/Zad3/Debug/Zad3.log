@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\semestr4\cryptogra\lab1\zad3\source.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab1\zad3\source.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab1\zad3\source.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab1\zad3\source.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+  Zad3.vcxproj -> D:\SEMESTR4\Cryptogra\lab1\Debug\Zad3.exe

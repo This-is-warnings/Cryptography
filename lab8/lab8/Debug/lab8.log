@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\semestr4\cryptogra\lab8\lab8\source.cpp(114): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+d:\semestr4\cryptogra\lab8\lab8\source.cpp(161): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab8\lab8\source.cpp(143): warning C4101: temp: неиспользованная локальная переменная
+  lab8.vcxproj -> D:\SEMESTR4\Cryptogra\lab8\Debug\lab8.exe

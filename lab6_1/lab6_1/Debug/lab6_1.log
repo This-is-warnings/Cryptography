@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\semestr4\cryptogra\lab6_1\lab6_1\source.cpp(22): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+d:\semestr4\cryptogra\lab6_1\lab6_1\source.cpp(149): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  lab6_1.vcxproj -> D:\SEMESTR4\Cryptogra\lab6_1\Debug\lab6_1.exe

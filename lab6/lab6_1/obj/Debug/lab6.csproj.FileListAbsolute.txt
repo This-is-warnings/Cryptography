@@ -1,0 +1,7 @@
+D:\SEMESTR4\Cryptogra\lab6\lab6\bin\Debug\lab6.exe.config
+D:\SEMESTR4\Cryptogra\lab6\lab6\bin\Debug\lab6.exe
+D:\SEMESTR4\Cryptogra\lab6\lab6\bin\Debug\lab6.pdb
+D:\SEMESTR4\Cryptogra\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\SEMESTR4\Cryptogra\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\Cryptogra\lab6\lab6\obj\Debug\lab6.exe
+D:\SEMESTR4\Cryptogra\lab6\lab6\obj\Debug\lab6.pdb

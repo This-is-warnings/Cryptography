@@ -1,0 +1,14 @@
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\bin\Debug\lab6_2.exe.config
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\bin\Debug\lab6_2.exe
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\bin\Debug\lab6_2.pdb
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\obj\Debug\lab6_2.exe
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\obj\Debug\lab6_2.pdb
+D:\SEMESTR4\Cryptogra\lab6\lab6_2\obj\Debug\lab6_2.csprojAssemblyReference.cache
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\bin\Debug\lab6_2.exe.config
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\bin\Debug\lab6_2.exe
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\bin\Debug\lab6_2.pdb
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\obj\Debug\lab6_2.csprojAssemblyReference.cache
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\obj\Debug\lab6_2.exe
+D:\SEMESTR4\Cryptogra\lab6\lab6\lab6_2\obj\Debug\lab6_2.pdb

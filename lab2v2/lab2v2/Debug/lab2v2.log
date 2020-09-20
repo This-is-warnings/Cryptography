@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\semestr4\cryptogra\lab2v2\lab2v2\bignumberoperation.h(31): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab2v2\lab2v2\bignumberoperation.h(43): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab2v2\lab2v2\bignumberoperation.h(73): warning C4018: <: несоответствие типов со знаком и без знака
+d:\semestr4\cryptogra\lab2v2\lab2v2\bignumberoperation.h(84): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2v2.vcxproj -> D:\SEMESTR4\Cryptogra\lab2v2\Debug\lab2v2.exe
